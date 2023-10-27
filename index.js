@@ -1,3 +1,3 @@
-function feature (){
-    alert('Kuy sin i nha heee');
+function feature2 (){
+    alert('pen here alai kuy lai ra');
 };
