@@ -1,3 +1,8 @@
-function feature2 (){
-    alert('pen here alai kuy lai ra');
+function feature1 (){
+    alert('Hello B');
 };
+
+function feature2 (){
+    alert('Are u Okay??');
+};
+
